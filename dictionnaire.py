@@ -17,4 +17,7 @@ etudiants ={
     },
 }
 
+print("Affichage de toutes les Etudiants")
 print (etudiants)
+print("Affichage d'un etudiant ")
+print(etudiants[2])
