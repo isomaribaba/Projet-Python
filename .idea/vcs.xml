@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/crack_password_python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/forenstic_tool" vcs="Git" />
   </component>
 </project>
