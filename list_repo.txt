@@ -1,0 +1,270 @@
+Nom repository : andrea
+ Description : None
+  url : https://api.github.com/repos/lesage20/andrea
+Nom repository : as40-vote
+ Description : proposal voting system
+  url : https://api.github.com/repos/lesage20/as40-vote
+Nom repository : as40-vote-api
+ Description : None
+  url : https://api.github.com/repos/lesage20/as40-vote-api
+Nom repository : boilerplate-arithmetic-formatter
+ Description : None
+  url : https://api.github.com/repos/lesage20/boilerplate-arithmetic-formatter
+Nom repository : boilerplate-budget-app
+ Description : None
+  url : https://api.github.com/repos/lesage20/boilerplate-budget-app
+Nom repository : boilerplate-mean-variance-standard-deviation-calculator
+ Description : None
+  url : https://api.github.com/repos/lesage20/boilerplate-mean-variance-standard-deviation-calculator
+Nom repository : boilerplate-medical-data-visualizer
+ Description : None
+  url : https://api.github.com/repos/lesage20/boilerplate-medical-data-visualizer
+Nom repository : boilerplate-time-calculator
+ Description : None
+  url : https://api.github.com/repos/lesage20/boilerplate-time-calculator
+Nom repository : burger-menu
+ Description : None
+  url : https://api.github.com/repos/lesage20/burger-menu
+Nom repository : Chatire
+ Description : :speech_balloon: Real time Chat application built with Vue, Django, RabbitMQ and uWSGI WebSockets.
+  url : https://api.github.com/repos/lesage20/Chatire
+Nom repository : club-python
+ Description : blog developper par le club python 3.20
+  url : https://api.github.com/repos/lesage20/club-python
+Nom repository : confer
+ Description : None
+  url : https://api.github.com/repos/lesage20/confer
+Nom repository : countries
+ Description : None
+  url : https://api.github.com/repos/lesage20/countries
+Nom repository : cours_git
+ Description : None
+  url : https://api.github.com/repos/lesage20/cours_git
+Nom repository : creto
+ Description : None
+  url : https://api.github.com/repos/lesage20/creto
+Nom repository : cretos
+ Description : None
+  url : https://api.github.com/repos/lesage20/cretos
+Nom repository : crm
+ Description : my crm app
+  url : https://api.github.com/repos/lesage20/crm
+Nom repository : Dango_static_media_config
+ Description : None
+  url : https://api.github.com/repos/lesage20/Dango_static_media_config
+Nom repository : data-analyst
+ Description : Bootcamp Data Analyst avec Python: Des bases de Python à l'analyse et visualisation de données pour l'extraction de connaissances et storytelling
+  url : https://api.github.com/repos/lesage20/data-analyst
+Nom repository : django-private-chat
+ Description : (Deprecated - Please check out https://github.com/Bearle/django_private_chat2) Django one-to-one Websocket-based Asyncio-handled chat, developed by Bearle team
+  url : https://api.github.com/repos/lesage20/django-private-chat
+Nom repository : django-template-api
+ Description : None
+  url : https://api.github.com/repos/lesage20/django-template-api
+Nom repository : djangoinitiation
+ Description : None
+  url : https://api.github.com/repos/lesage20/djangoinitiation
+Nom repository : django_private_chat2
+ Description : Chat app for Django, powered by Django Channels, Websockets & Asyncio
+  url : https://api.github.com/repos/lesage20/django_private_chat2
+Nom repository : djinana
+ Description : None
+  url : https://api.github.com/repos/lesage20/djinana
+Nom repository : djinana-deploy
+ Description : None
+  url : https://api.github.com/repos/lesage20/djinana-deploy
+Nom repository : dream
+ Description : None
+  url : https://api.github.com/repos/lesage20/dream
+Nom repository : dreamrs
+ Description : it is an exercice given by my teacher 
+  url : https://api.github.com/repos/lesage20/dreamrs
+Nom repository : exonan
+ Description : this is an exercise that I have to do
+  url : https://api.github.com/repos/lesage20/exonan
+Nom repository : exo_parrain_soro
+ Description : None
+  url : https://api.github.com/repos/lesage20/exo_parrain_soro
+Nom repository : gp
+ Description : gp exercice de parrain mamout
+  url : https://api.github.com/repos/lesage20/gp
+Nom repository : andrea
+ Description : None
+  url : https://api.github.com/repos/lesage20/andrea
+Nom repository : as40-vote
+ Description : proposal voting system
+  url : https://api.github.com/repos/lesage20/as40-vote
+Nom repository : as40-vote-api
+ Description : None
+  url : https://api.github.com/repos/lesage20/as40-vote-api
+Nom repository : boilerplate-arithmetic-formatter
+ Description : None
+  url : https://api.github.com/repos/lesage20/boilerplate-arithmetic-formatter
+Nom repository : boilerplate-budget-app
+ Description : None
+  url : https://api.github.com/repos/lesage20/boilerplate-budget-app
+Nom repository : boilerplate-mean-variance-standard-deviation-calculator
+ Description : None
+  url : https://api.github.com/repos/lesage20/boilerplate-mean-variance-standard-deviation-calculator
+Nom repository : boilerplate-medical-data-visualizer
+ Description : None
+  url : https://api.github.com/repos/lesage20/boilerplate-medical-data-visualizer
+Nom repository : boilerplate-time-calculator
+ Description : None
+  url : https://api.github.com/repos/lesage20/boilerplate-time-calculator
+Nom repository : burger-menu
+ Description : None
+  url : https://api.github.com/repos/lesage20/burger-menu
+Nom repository : Chatire
+ Description : :speech_balloon: Real time Chat application built with Vue, Django, RabbitMQ and uWSGI WebSockets.
+  url : https://api.github.com/repos/lesage20/Chatire
+Nom repository : club-python
+ Description : blog developper par le club python 3.20
+  url : https://api.github.com/repos/lesage20/club-python
+Nom repository : confer
+ Description : None
+  url : https://api.github.com/repos/lesage20/confer
+Nom repository : countries
+ Description : None
+  url : https://api.github.com/repos/lesage20/countries
+Nom repository : cours_git
+ Description : None
+  url : https://api.github.com/repos/lesage20/cours_git
+Nom repository : creto
+ Description : None
+  url : https://api.github.com/repos/lesage20/creto
+Nom repository : cretos
+ Description : None
+  url : https://api.github.com/repos/lesage20/cretos
+Nom repository : crm
+ Description : my crm app
+  url : https://api.github.com/repos/lesage20/crm
+Nom repository : Dango_static_media_config
+ Description : None
+  url : https://api.github.com/repos/lesage20/Dango_static_media_config
+Nom repository : data-analyst
+ Description : Bootcamp Data Analyst avec Python: Des bases de Python à l'analyse et visualisation de données pour l'extraction de connaissances et storytelling
+  url : https://api.github.com/repos/lesage20/data-analyst
+Nom repository : django-private-chat
+ Description : (Deprecated - Please check out https://github.com/Bearle/django_private_chat2) Django one-to-one Websocket-based Asyncio-handled chat, developed by Bearle team
+  url : https://api.github.com/repos/lesage20/django-private-chat
+Nom repository : django-template-api
+ Description : None
+  url : https://api.github.com/repos/lesage20/django-template-api
+Nom repository : djangoinitiation
+ Description : None
+  url : https://api.github.com/repos/lesage20/djangoinitiation
+Nom repository : django_private_chat2
+ Description : Chat app for Django, powered by Django Channels, Websockets & Asyncio
+  url : https://api.github.com/repos/lesage20/django_private_chat2
+Nom repository : djinana
+ Description : None
+  url : https://api.github.com/repos/lesage20/djinana
+Nom repository : djinana-deploy
+ Description : None
+  url : https://api.github.com/repos/lesage20/djinana-deploy
+Nom repository : dream
+ Description : None
+  url : https://api.github.com/repos/lesage20/dream
+Nom repository : dreamrs
+ Description : it is an exercice given by my teacher 
+  url : https://api.github.com/repos/lesage20/dreamrs
+Nom repository : exonan
+ Description : this is an exercise that I have to do
+  url : https://api.github.com/repos/lesage20/exonan
+Nom repository : exo_parrain_soro
+ Description : None
+  url : https://api.github.com/repos/lesage20/exo_parrain_soro
+Nom repository : gp
+ Description : gp exercice de parrain mamout
+  url : https://api.github.com/repos/lesage20/gp
+Nom repository : andrea
+ Description : None
+  url : https://api.github.com/repos/lesage20/andrea
+Nom repository : as40-vote
+ Description : proposal voting system
+  url : https://api.github.com/repos/lesage20/as40-vote
+Nom repository : as40-vote-api
+ Description : None
+  url : https://api.github.com/repos/lesage20/as40-vote-api
+Nom repository : boilerplate-arithmetic-formatter
+ Description : None
+  url : https://api.github.com/repos/lesage20/boilerplate-arithmetic-formatter
+Nom repository : boilerplate-budget-app
+ Description : None
+  url : https://api.github.com/repos/lesage20/boilerplate-budget-app
+Nom repository : boilerplate-mean-variance-standard-deviation-calculator
+ Description : None
+  url : https://api.github.com/repos/lesage20/boilerplate-mean-variance-standard-deviation-calculator
+Nom repository : boilerplate-medical-data-visualizer
+ Description : None
+  url : https://api.github.com/repos/lesage20/boilerplate-medical-data-visualizer
+Nom repository : boilerplate-time-calculator
+ Description : None
+  url : https://api.github.com/repos/lesage20/boilerplate-time-calculator
+Nom repository : burger-menu
+ Description : None
+  url : https://api.github.com/repos/lesage20/burger-menu
+Nom repository : Chatire
+ Description : :speech_balloon: Real time Chat application built with Vue, Django, RabbitMQ and uWSGI WebSockets.
+  url : https://api.github.com/repos/lesage20/Chatire
+Nom repository : club-python
+ Description : blog developper par le club python 3.20
+  url : https://api.github.com/repos/lesage20/club-python
+Nom repository : confer
+ Description : None
+  url : https://api.github.com/repos/lesage20/confer
+Nom repository : countries
+ Description : None
+  url : https://api.github.com/repos/lesage20/countries
+Nom repository : cours_git
+ Description : None
+  url : https://api.github.com/repos/lesage20/cours_git
+Nom repository : creto
+ Description : None
+  url : https://api.github.com/repos/lesage20/creto
+Nom repository : cretos
+ Description : None
+  url : https://api.github.com/repos/lesage20/cretos
+Nom repository : crm
+ Description : my crm app
+  url : https://api.github.com/repos/lesage20/crm
+Nom repository : Dango_static_media_config
+ Description : None
+  url : https://api.github.com/repos/lesage20/Dango_static_media_config
+Nom repository : data-analyst
+ Description : Bootcamp Data Analyst avec Python: Des bases de Python à l'analyse et visualisation de données pour l'extraction de connaissances et storytelling
+  url : https://api.github.com/repos/lesage20/data-analyst
+Nom repository : django-private-chat
+ Description : (Deprecated - Please check out https://github.com/Bearle/django_private_chat2) Django one-to-one Websocket-based Asyncio-handled chat, developed by Bearle team
+  url : https://api.github.com/repos/lesage20/django-private-chat
+Nom repository : django-template-api
+ Description : None
+  url : https://api.github.com/repos/lesage20/django-template-api
+Nom repository : djangoinitiation
+ Description : None
+  url : https://api.github.com/repos/lesage20/djangoinitiation
+Nom repository : django_private_chat2
+ Description : Chat app for Django, powered by Django Channels, Websockets & Asyncio
+  url : https://api.github.com/repos/lesage20/django_private_chat2
+Nom repository : djinana
+ Description : None
+  url : https://api.github.com/repos/lesage20/djinana
+Nom repository : djinana-deploy
+ Description : None
+  url : https://api.github.com/repos/lesage20/djinana-deploy
+Nom repository : dream
+ Description : None
+  url : https://api.github.com/repos/lesage20/dream
+Nom repository : dreamrs
+ Description : it is an exercice given by my teacher 
+  url : https://api.github.com/repos/lesage20/dreamrs
+Nom repository : exonan
+ Description : this is an exercise that I have to do
+  url : https://api.github.com/repos/lesage20/exonan
+Nom repository : exo_parrain_soro
+ Description : None
+  url : https://api.github.com/repos/lesage20/exo_parrain_soro
+Nom repository : gp
+ Description : gp exercice de parrain mamout
+  url : https://api.github.com/repos/lesage20/gp
